@@ -1,0 +1,48 @@
+/* Especificações do hero hea */
+.backalley {
+    height:100vh;
+    background: url('images/Backalley.jpeg');
+    background-size:cover;
+    position:relative;
+}
+/* text css above hero image*/
+.title {
+    font-size: 4.5rem;
+}
+.summary {
+    font-size: 2rem;
+}
+.hero_text {
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+}
+
+.iphone {
+    height:50vh;
+    background: url("images/1g.webp");
+    background-size: cover;
+    position: relative;
+}
+
+.samsung {
+    height:50vh;
+    background: url("images/1s.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+.xiaomi {
+    height:50vh;
+    background: url("images/1x.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+/* about section image css */
+.imageAboutPage {
+    width: 100%;
+}
