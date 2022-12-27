@@ -1,2 +1,2 @@
-# My_portfolio
-this is a example site for a dropshipping plaftorm
+# DropShip
+This was just an idea for a project that I had with some friends.
